@@ -26,6 +26,12 @@ a:hover {
     color: aliceblue;
 }
 
+.galeria:hover {
+    border-bottom: solid;
+    border-bottom-color:black ;
+    color: aliceblue;
+}
+
 
 #head {
     background-color: black;
@@ -52,6 +58,7 @@ a:hover {
 
 
 #menu {
+
     background: transparent;
     width: 700px;
     height: 50px;
@@ -113,6 +120,3 @@ height: 100%;
     height: 100%;
     display: inline-block;
 }
-
-
-
